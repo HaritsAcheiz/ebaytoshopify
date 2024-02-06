@@ -1,0 +1,4 @@
+pandas==2.2.0
+httpx==0.26.0
+selectolax==0.3.19
+python-dotenv==1.0.1
